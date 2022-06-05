@@ -1,0 +1,12 @@
+This File will be used to read fruits name present in it.
+
+Orange
+Mango
+Grapes
+Banana
+Cherry
+Litchi
+Plum
+Sweet Lime
+Watermelon
+Apple
